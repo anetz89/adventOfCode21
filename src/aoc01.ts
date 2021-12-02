@@ -1,9 +1,9 @@
 import  { readNumberList } from './importer';
 
-export function aoc(isPart2=false): any {
+export function aoc(isFirstPart=false): any {
     let list = readNumberList('./assets/aoc01.txt');
 
-    if (isPart2) {
+    if (!isFirstPart) {
         list = list.map((elem, idx): number => elem + list[idx + 1] + list[idx + 2]);
     }
 
