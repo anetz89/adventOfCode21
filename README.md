@@ -39,8 +39,5 @@ Please note that you have to adjust the index.ts file to assure that you run the
 ### aoc05 - map
 - make code pushable
 
-### aoc06 - fishes
-- use .shift()!
-
 ### aoc07 - fuel
 - reduce calculations, devide&conquer? median?
