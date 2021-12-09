@@ -42,3 +42,5 @@ Please note that you have to adjust the index.ts file to assure that you run the
 ### aoc06 - fishes
 - use .shift()!
 
+### aoc07 - fuel
+- reduce calculations, devide&conquer? median?
