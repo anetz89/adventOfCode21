@@ -37,7 +37,12 @@ Please note that you have to adjust the index.ts file to assure that you run the
 - keep changed puzzle
 
 ### aoc05 - map
-- make code pushable
+- horizontal and diagonal methods might be able to be combined
+- ugliest solution so far -.-
 
 ### aoc07 - fuel
 - reduce calculations, devide&conquer? median?
+
+### aoc13 - paper fold
+- parsePuzzleResultToString
+- remove static paper size
