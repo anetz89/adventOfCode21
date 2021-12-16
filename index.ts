@@ -1,4 +1,4 @@
-import { aoc } from './src/aoc14';
+import { aoc } from './src/aoc16';
 
 console.time('execution_complete');
 
